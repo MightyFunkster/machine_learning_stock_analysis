@@ -48,7 +48,7 @@ Please provide feedback on the project layout, documentation or any other aspect
 
 ## Changelog
 
-### [Version 1.0.0] - 05/12/2023
+### [Version 1.0.0] - 08/04/2024
 
 #### Added:
 
